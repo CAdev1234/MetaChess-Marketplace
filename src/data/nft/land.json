@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "template": "Asian",
+    "position": "A1",
+    "price": {
+        "amount": 0.244,
+        "currency": "$SHAH"
+    },
+    "openToBuy": true,
+    "expireTime": 1234345353,
+    "lender": {
+        "name": "Brodband",
+        "slug": "/author",
+        "image": {
+            "src": "/images/client/client-1.png"
+        }
+    },
+    "owner": {
+        "name": "Brodband",
+        "slug": "/author",
+        "image": {
+            "src": "/images/client/client-1.png"
+        }
+    },
+    "lendExpireTime": 1231412412,
+    "totalReward": 9000,
+    "slug": "asian_A1",
+    "image": [{
+        "src": "/images/nft/land/land1.png"
+    }]
+}]

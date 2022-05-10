@@ -1,0 +1,106 @@
+{
+    "id": "footer-data-01",
+    "logo-widget": {
+        "logo": [
+            {
+                "src": "/images/logo/BrainiacChessLogo.png",
+                "alt": "logo"
+            }
+        ],
+        "text": "Created with the collaboration of over 60 of the world's best MetaChess Artists."
+    },
+    "newsletter-widget": {
+        "title": "Get The Latest MetaChess Updates",
+        "note": "Email is safe. We don't spam."
+    },
+    "quicklink-widget": {
+        "title": "MetaChess",
+        "menu": [
+            {
+                "id": 1,
+                "text": "All NFTs",
+                "path": "/explorer/all"
+            },
+            {
+                "id": 2,
+                "text": "Land NFTs",
+                "path": "/explorer/land"
+            },
+            {
+                "id": 3,
+                "text": "Character NFTs",
+                "path": "/explorer/character"
+            },
+            {
+                "id": 4,
+                "text": "Battle Ground NFTs",
+                "path": "/explorer/battleground"
+            }
+        ]
+    },
+    "information-widget": {
+        "title": "Information",
+        "menu": [
+            {
+                "id": 1,
+                "text": "Home",
+                "path": "/"
+            },
+            {
+                "id": 2,
+                "text": "About Us",
+                "path": "/about"
+            }
+        ]
+    },
+    "soldout-widget": {
+        "title": "Recent Sold Out",
+        "products": [
+            {
+                "id": 1,
+                "title": "#1 King",
+                "path": "/product",
+                "highestBid": "Highest bid 1/20",
+                "price": "0.244$SHAH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-01.jpg"
+                }
+            },
+            {
+                "id": 2,
+                "title": "#1 Land",
+                "path": "/product",
+                "highestBid": "Highest bid 1/20",
+                "price": "0.022$SHAH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-02.jpg"
+                }
+            },
+            {
+                "id": 3,
+                "title": "#2 Asian Temple",
+                "path": "/product",
+                "highestBid": "Highest bid 1/20",
+                "price": "0.892$SHAH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-03.jpg"
+                }
+            }
+        ]
+    },
+    "footer-link-widget": {
+        "menu": [
+            {
+                "id": 1,
+                "text": "Terms",
+                "path": "/terms-condition"
+            },
+            {
+                "id": 2,
+                "text": "Privacy Policy",
+                "path": "/privacy-policy"
+            }
+        ]
+    },
+    "copyright_text": "©2022 MetaChess, Inc. All rights reserved"
+}

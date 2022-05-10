@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "path": "/"
+  },
+  {
+    "id": 2,
+    "text": "Land NFTs",
+    "path": "/explorer/land",
+    "path": "#!",
+        "submenu": [
+          {
+                "id": 11,
+                "text": "Explore Filter",
+                "path": "/explorer/land"
+            }
+        ]
+  }
+//  {
+//    "id": 3,
+//    "text": "Character NFTs",
+//    "path": "/explorer/character"
+//  },
+//  {
+//    "id": 4,
+//    "text": "About",
+//    "path": "/about"
+//  },
+//  {
+//    "id": 5,
+//    "text": "Contact",
+//    "path": "/contact"
+//  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "path": "/"
+  },
+  {
+    "id": 2,
+    "text": "Land NFTs",
+    "path": "/explorer/land"
+  },
+  {
+    "id": 3,
+    "text": "Battleground NFTs",
+    "path": "/explorer/battleground"
+  },
+  {
+    "id": 4,
+    "text": "Character NFTs",
+    "path": "/explorer/character"
+  },
+  {
+    "id": 5,
+    "text": "About",
+    "path": "/about"
+  }
+]
